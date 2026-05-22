@@ -1,0 +1,9 @@
+tensorflow
+numpy
+matplotlib
+h5py
+Pillow
+pandas
+scikit-learn
+seaborn
+ipykernel
